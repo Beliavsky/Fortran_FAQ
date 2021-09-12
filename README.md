@@ -19,10 +19,6 @@ Fortran FAQ
     host:       rtfm.mit.edu
     directory:  /pub/usenet
 
- If you have comments/suggestions/edit proposals please send them to me
- (keith.bierman@eng.sun.com). I do not promise to accept 'em. I encourage
- others to make better FAQ lists, so I can retire this one.
-
  The structure of the current list has been modified from previous versions
  in an attempt to group related questions according to their topic, and to
  maintain consistency with the new order.  Let the author know if any
@@ -6354,14 +6350,4 @@ lionel.html
 
    ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
- --
- Keith H. Bierman    keith.bierman@Sun.COM| khb@chiba.Eng.Sun.COM
- SunSoft Developer Products               | khb@netcom.com
-  2550 Garcia UMPK16-304   415 786-9296   | (415 7869296) fax
- Mountain View, CA 94043  <speaking for myself, not Sun*> Copyright 1996
 
--- 
-Keith H. Bierman    keith.bierman@Sun.COM| khb@chiba.Eng.Sun.COM
-SunSoft Developer Products		 | khb@netcom.com
- 2550 Garcia UMPK16-304   415 786-9296   | (415 7869296) fax 
-Mountain View, CA 94043  <speaking for myself, not Sun*> Copyright 1996
