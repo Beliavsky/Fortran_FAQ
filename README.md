@@ -1,6 +1,4 @@
-# Fortran_FAQ
-
-Fortran FAQ
+### Fortran FAQ
 
  Here are some answers to frequently asked questions. The "author", as is
  the custom, has appropriated posted responses as seemed apt. I have tried
