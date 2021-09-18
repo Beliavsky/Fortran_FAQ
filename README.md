@@ -249,6 +249,10 @@ C      +  misc other updates (bad bookkeeping)
 
 
 1.1.1) Where can I learn more about the history of Fortran?
+ 
+       The book "Abstracting Away the Machine: The History of the FORTRAN Programming Language (FORmula TRANslation)"
+       was self-published by Mark Jones Lorenzo in 2019 https://www.amazon.com/Abstracting-Away-Machine-Programming-TRANslation/dp/1082395943 
+       and has been favorably received. Also see the Fortran Wiki http://fortranwiki.org/fortran/show/Fortran+History and Wikipedia.
 
        -------------------------------------------------
        ~From: metcalf@apofort.cern.ch (Michael Metcalf )
